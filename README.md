@@ -1,6 +1,6 @@
 # Hi, I'm Juan 🤟🏽 👨🏽‍💻
 
-<img src="" alt="banner that says Juan Vasquez - Software Enginner, Content creator, IOS Developer and Cat Lover">
+<img src="https://user-images.githubusercontent.com/18092648/148613659-8a302d0d-1ccd-4781-ae7c-b1dccfb7811a.jpg" alt="banner that says Juan Vasquez - Software Enginner, Content creator, IOS Developer and Cat Lover">
 Comming soon... 
 
 
