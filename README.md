@@ -1,8 +1,11 @@
 # Hi, I'm Juan 🤟🏽 👨🏽‍💻
 
 <img src="https://user-images.githubusercontent.com/18092648/148613659-8a302d0d-1ccd-4781-ae7c-b1dccfb7811a.jpg" alt="banner that says Juan Vasquez - Software Enginner, Content creator, IOS Developer and Cat Lover">
+
+### English
 I am Juan, a mobile developer specialized in the Apple ecosystem, primarily focusing on iOS app development using Swift. I have a strong passion for architectural patterns and creating captivating animations. Alongside my development work, I also have a deep enthusiasm for teaching others. Currently, I run an academy where I educate students on computer fundamentals and programming logic. I find immense joy in sharing my knowledge and empowering aspiring developers to unlock their potential. Let's connect and together, let's create innovative solutions while nurturing a learning community!
 
+### Spanish
 Soy Juan, un desarrollador móvil especializado en el ecosistema de Apple, enfocado principalmente en el desarrollo de aplicaciones para iOS usando Swift. Tengo una gran pasión por los patrones arquitectónicos y la creación de animaciones cautivadoras. Junto con mi trabajo de desarrollo, también tengo un profundo entusiasmo por enseñar a otros. Actualmente, dirijo una academia donde educo a los estudiantes sobre fundamentos informáticos y lógica de programación. Encuentro una inmensa alegría en compartir mi conocimiento y empoderar a los aspirantes a desarrolladores para que desbloqueen su potencial. ¡Conectémonos y juntos, creemos soluciones innovadoras mientras fomentamos una comunidad de aprendizaje!
 
 
